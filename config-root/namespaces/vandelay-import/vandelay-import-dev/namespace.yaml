@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: vandelay-import-dev
   labels:
-    eschews: cost-rules
+    cost-center: vandelay-import
